@@ -17,7 +17,7 @@ class Config:
     def init_app(app):
         pass
 
-
+jkdhfj
 class DevelopmentConfig(Config):
     DEBUG = True
     SQLALCHEMY_DATABASE_URI = create_sqlite_uri("todolist-dev.db")
