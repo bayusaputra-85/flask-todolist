@@ -1,0 +1,8 @@
+Blackbox Testing Result:
+
+✓ Login → PASS
+✓ Create Task → PASS
+✓ Logout → PASS
+
+Semua skenario berhasil dijalankan menggunakan Selenium IDE pada URL publik:
+https://stunning-broccoli-r4x7g46wgxpvhxvr6-8000.app.github.dev/

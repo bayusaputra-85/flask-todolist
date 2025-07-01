@@ -7,3 +7,5 @@ WORKDIR /code
 
 RUN pip install gunicorn
 RUN pip install -r requirements.txt
+
+ENV PYTHONPATH="/code"
